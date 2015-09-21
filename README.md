@@ -15,7 +15,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 ###Sample output:
 
-<pre><code> 1
+<pre><code>  1
   2
   Fizz
   4
