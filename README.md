@@ -36,3 +36,29 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
   19
   Buzz
   ... etc up to 100</pre></code>
+  
+###Iteration 2
+
+You probably used a loop to do this, right? One of the fantastic things about Ruby and about programming in general is that there are usually several ways to solve a problem. Try to rewrite your solution using a different kind of loop. For example, if you used a for loop, try doing it with #each or while.
+
+###Iteration 3
+
+Add a new condition: if the number starts with the number 1, add “Bang” to the result. So for example, now your output should look like this:
+
+<pre><code>
+  Bang
+  2
+  Fizz
+  4
+  Buzz
+  Fizz
+  7
+  8
+  Fizz
+  BuzzBang
+  … etc. until 100
+</pre></code>
+
+###Iteration 4
+
+It’s getting harder and harder to add new conditions! An endless chain of elsif conditions is messy and difficult to maintain. Rewrite your code to make it simpler (this is called “refactoring”).
