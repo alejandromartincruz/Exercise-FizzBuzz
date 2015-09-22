@@ -7,6 +7,9 @@ number = number + 1
 # While number is less or equal than 100
 while number <= 100
 
+#loop with for changed to the while loop in iteration 2
+#for number in 0..100
+
   #create a string with the number value
   string_number = number.to_s
 
